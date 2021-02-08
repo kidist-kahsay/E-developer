@@ -2192,6 +2192,7 @@ ul {
   text-transform: uppercase;
   color: #09c48c;
   margin-bottom: 20px;
+  font:italic small-caps bold 22px/39px Georgia, serif;
 }
 .about-page-wrapper .work-area .single-work .work-content p {
   margin-bottom: 0;
@@ -4124,6 +4125,7 @@ ul {
   font-weight: 600;
   text-transform: capitalize;
   margin-bottom: 20px;
+  font:italic small-caps bold 22px/39px Georgia, serif;
 }
 .newsletter-area .newsletter-content p {
   margin-bottom: 0px;
